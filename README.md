@@ -1,2 +1,3 @@
 # Hello-World
-Just another repository
+Hi there,
+I like Java and C++
